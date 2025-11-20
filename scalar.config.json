@@ -1,6 +1,6 @@
 {
   "$schema": "https://cdn.scalar.com/schema/scalar-config.json",
-  "subdomain": "my-awesome-documentation",
+  "subdomain": "my-example-dcs",
   "guides": [
     {
       "name": "My awesome documentation",
